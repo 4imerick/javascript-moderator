@@ -24,7 +24,7 @@ const moderator = {
   /**
    * Method that check if a list of words contains ar least one blacklisted word.
    * @param {String} words
-   * @return {bool}
+   * @return {void}
    */
   checkIfBlacklistedWords: function (words) {
     console.log("form.checkIfBlacklistedWords()");
