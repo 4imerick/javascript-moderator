@@ -16,7 +16,7 @@ The blacklisted words on the home page are here for information purpose only and
 To use the projet follows these steps:
 
 - Git clone the `dev` branch of the repository
-- Run the command `JavaScript -S localhost:8080 -t public`
+- Run the command `php -S localhost:8080 -t public`
 - Open you browser and go the URL `http://localhost:8080/`
 
 ## Glimpse
