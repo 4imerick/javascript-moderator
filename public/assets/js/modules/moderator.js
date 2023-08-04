@@ -22,7 +22,7 @@ const moderator = {
     moderator.specialCharacters = [".", ",", ";", "!", "?", "/", '"', "@"];
   },
   /**
-   * Method that check if a list of words contains ar least one blacklisted word and return true if it's the case and false if not.
+   * Method that check if a list of words contains ar least one blacklisted word.
    * @param {String} words
    * @return {bool}
    */
@@ -61,7 +61,6 @@ const moderator = {
             form.errorMessagePostCommentaryBlacklistedWord
           );
           form.numberOfErrors++;
-          return true;
         }
       }
 
