@@ -10,7 +10,7 @@ The blacklisted words on the home page are here for information purpose only and
 - HTML 5
 - CSS 3
 - JavaScript ECMAScript 2020
-- JavaScript 8.2
+- PHP 8.2
 - Symfony 6.3
 
 To use the projet follows these steps:
